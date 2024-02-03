@@ -2,6 +2,10 @@
 
 Welcome to the CSS Animated Website project! This project features a simple animated landing page with colorful bubbles and a responsive design.
 
+## How it looks!!
+
+<img width="946" alt="Screenshot 2024-02-03 173924" src="https://github.com/marium-noor/Animated-web-page/assets/145590434/ff9260e7-0086-4870-8f2a-db98c33d577b">
+
 ## Features
 
 - **Animated Bubbles:** The background is animated with colorful bubbles floating upwards, creating a visually appealing effect.
